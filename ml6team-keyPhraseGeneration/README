@@ -1,0 +1,3 @@
+Create virtual environment
+Run the model.py and save model and tokenizer to a local directory
+Use the TextInput from the front-end when calling the API; otherwise, use a default text directly.
