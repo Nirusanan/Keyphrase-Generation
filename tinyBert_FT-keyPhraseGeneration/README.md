@@ -16,4 +16,4 @@
      </code></pre>
 
   ## FineTuned Model
-  Hugging Face: [https://huggingface.co/nirusanan/llama-gguf](https://huggingface.co/nirusanan/tinyBert-keyword)
+  Hugging Face: https://huggingface.co/nirusanan/tinyBert-keyword
