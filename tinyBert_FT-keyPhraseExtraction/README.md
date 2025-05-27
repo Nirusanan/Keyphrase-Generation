@@ -1,4 +1,4 @@
-# Keyphrase Generation API Using Fine-Tuned TinyBERT
+# Keyphrase Extraction API Using Fine-Tuned TinyBERT
 
 ## Instructions
 1. Download the Model
